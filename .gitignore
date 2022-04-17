@@ -72,6 +72,7 @@ typings/
 .env
 .env.test
 
+package-lock.json
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
@@ -101,4 +102,8 @@ dist
 .dynamodb/
 
 # TernJS port file
+<<<<<<< HEAD
 .tern-port
+=======
+.tern-port
+>>>>>>> master
